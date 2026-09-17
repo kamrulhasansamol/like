@@ -50,7 +50,7 @@ def make_request(encrypt, server_name, token):
     elif server_name in {"NX", "US"}:
         url = "https://client.us.freefiremobile.com/GetPlayerPersonalShow"
     else:
-        url = "https://loginbp.ppmainecoonghj.com/GetPlayerPersonalShow"
+        url = "https://clientbp.ppmainecoonghj.com/GetPlayerPersonalShow"
 
     edata = bytes.fromhex(encrypt)
     headers = {
