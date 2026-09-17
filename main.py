@@ -34,7 +34,7 @@ REGION_CONFIG = {
     },
     "AG": {
         "tokens": "ag_tokens",
-        "url": "https://loginbp.ppmainecoonghj.com/LikeProfile", 
+        "url": "https://clientbp.ppmainecoonghj.com/LikeProfile", 
         "state": "AG"
     }
 }
